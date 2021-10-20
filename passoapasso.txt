@@ -1,0 +1,27 @@
+Passo a Passo da instalação
+
+#### iniciando o npm no diretório
+    npm ini
+    # responda todas as perguntas
+#### instalando o express - framework para nodejs
+    npm install express --save
+
+##### instalando ejs - renderiza páginas html
+    npm install ejs --save
+
+###### instalando o nodemon 
+    sudo npm -g install nodemon
+
+#### criar estrutura de diretório pra conter as configurações do servidor
+
+    mkdir config
+    ## remanejar as configurações do servidor pra o modulo server.js
+
+#### Criar a estrutura de diretorio para conter a aplicação
+
+    mkdir app
+    ## mover o script app.js para a pasta criada
+    ## mover o diretório views para a pasta criada
+
+
+
